@@ -1,0 +1,8 @@
+canvas{
+  display: block;
+  margin: 0 auto;
+
+}
+body {
+    background: url(../img/index/bg.png); /* Цвет фона и путь к файлу */
+}
